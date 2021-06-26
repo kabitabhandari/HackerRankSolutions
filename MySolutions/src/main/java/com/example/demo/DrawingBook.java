@@ -18,7 +18,7 @@ public class DrawingBook {
                     count++;
                     i--;
                 }
-            }
+        }
 
         if(p > n/2 && n % 2 !=0 && n != p) { // need to flip from back but total pages are odd
             for (int i = n-2; i >= p; i--) {
