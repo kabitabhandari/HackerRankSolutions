@@ -1,8 +1,3 @@
-package com.example.demo;
-
-import java.util.Arrays;
-import java.util.List;
-
 public class DayOfProgrammer {
     public static String dayOfProgrammer(int year) {
         // Write your code here
